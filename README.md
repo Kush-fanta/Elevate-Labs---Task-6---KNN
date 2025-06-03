@@ -32,7 +32,6 @@
 ## Algorithms Used
 
 - K-Nearest Neighbors (KNN)
-- Principal Component Analysis (PCA)
 
 ---
 
